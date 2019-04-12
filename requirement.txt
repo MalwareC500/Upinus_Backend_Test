@@ -1,0 +1,15 @@
+Babel==2.5.3
+beautifulsoup4==4.6.3
+certifi==2018.8.24
+fire==0.1.3
+Flask==1.0.2
+Flask-Cors==3.0.4
+Flask-SocketIO==3.0.2
+Flask-WTF==0.14.2
+future==0.17.1
+gast==0.2.0
+requests==2.19.1
+requests-oauthlib==1.0.0
+requests-toolbelt==0.8.0
+seaborn==0.8.1
+urllib3==1.23
