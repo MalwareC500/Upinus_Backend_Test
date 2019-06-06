@@ -8,7 +8,7 @@ Flask-SocketIO==3.0.2
 Flask-WTF==0.14.2
 future==0.17.1
 gast==0.2.0
-requests==2.19.1
+requests==2.20.0
 requests-oauthlib==1.0.0
 requests-toolbelt==0.8.0
 seaborn==0.8.1
